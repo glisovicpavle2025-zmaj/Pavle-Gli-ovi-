@@ -1,0 +1,5 @@
+{
+  "name": "AI Generator Slika",
+  "description": "Aplikacija koja koristi veštačku inteligenciju za generisanje slika na osnovu tekstualnog opisa korisnika. Unesite opis, pritisnite dugme i prepustite AI-ju da stvori jedinstvenu vizuelnu interpretaciju.",
+  "requestFramePermissions": []
+}
